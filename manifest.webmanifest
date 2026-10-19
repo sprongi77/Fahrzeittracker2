@@ -1,0 +1,17 @@
+{
+  "name": "Fahrzeittracker",
+  "short_name": "Fahrzeiten",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c1927",
+  "theme_color": "#123047",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
